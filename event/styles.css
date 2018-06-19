@@ -1,0 +1,315 @@
+/*@charset "UTF-8";
+
+@font-face {
+  font-family: "icomoon";
+  src:url("fonts/icomoon.eot");
+  src:url("fonts/icomoon.eot?#iefix") format("embedded-opentype"),
+    url("fonts/icomoon.woff") format("woff"),
+    url("fonts/icomoon.ttf") format("truetype"),
+    url("fonts/icomoon.svg#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "icomoon" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1 ;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "icomoon" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 0.78;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-paper-presentation:before {
+  content: "\24";
+}
+.icon-studex:before {
+  content: "\2";
+}
+.icon-cad:before {
+  content: "\3";
+}
+.icon-astrophoto:before {
+  content: "\4";
+}
+.icon-quiz:before {
+  content: "\65";
+}
+.icon-tshirtdesign:before {
+  content: "\66";
+}
+.icon-workshop:before {
+  content: "\6f";
+}
+
+.icon-cb9fi-rct28:before {
+  content: "\e902";
+}
+.icon-hoverpod:before {
+  background-image:url('2.png'); 
+  
+}
+.icon-aciequor:before {
+  content: "\69";
+}
+.icon-braitenberg:before {
+  content: "\6a";
+}
+.icon-pixelation:before {
+  content: "\6b";
+}
+.icon-voyager:before {
+  content: "\6c";
+}
+.icon-paper-folding:before {
+  content: "\6d";
+}
+.icon-casestudy:before {
+  content: "\6e";
+}
+*/
+/*
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?4o6slg');
+  src:  url('fonts/icomoon.eot?4o6slg#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?4o6slg') format('truetype'),
+    url('fonts/icomoon.woff?4o6slg') format('woff'),
+    url('fonts/icomoon.svg?4o6slg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-s1.9:before {
+  content: "\e900";
+}
+.icon-s1.12:before {
+  content: "\e901";
+}
+.icon-s1.21:before {
+  content: "\e902";
+}
+.icon-s1.31:before {
+  content: "\e903";
+}
+.icon-Science-of-paper-folding:before {
+  content: "\e904";
+}
+.icon-spats_withtextlogo_corel-_1:before {
+  content: "\e905";
+}
+.icon-tshirtdesign-_1:before {
+  content: "\e906";
+}
+.icon-voyager:before {
+  content: "\e907";
+}
+.icon-workshop:before {
+  content: "\e908";
+}*/
+
+/*@charset "UTF-8";
+
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ou3q25');
+  src:  url('fonts/icomoon.eot?ou3q25#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ou3q25') format('truetype'),
+    url('fonts/icomoon.woff?ou3q25') format('woff'),
+    url('fonts/icomoon.svg?ou3q25#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "icomoon" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1 ;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "icomoon" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 0.78;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-6:before {
+  content: "\e900";
+
+}
+.icon-7:before {
+  content: "\e901";
+}
+.icon-8:before {
+  content: "\e902";
+  margin-bottom: 500px;
+}
+.icon-9:before {
+  content: "\e903";
+}
+.icon-10:before {
+  content: "\e904";
+}
+.icon-11:before {
+  content: "\e905";
+}
+.icon-12:before {
+  content: "\e906";
+}
+.icon-13:before {
+  content: "\e907";
+}
+.icon-14:before {
+  content: "\e908";
+}
+.icon-15:before {
+  content: "\e909";
+}*/
+
+@charset "UTF-8";
+
+
+
+
+
+
+
+
+
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?h9vir8');
+  src:  url('fonts/icomoon.eot?h9vir8#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?h9vir8') format('truetype'),
+    url('fonts/icomoon.woff?h9vir8') format('woff'),
+    url('fonts/icomoon.svg?h9vir8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+[data-icon]:before {
+  font-family: "icomoon" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1 ;
+  size: 50%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "icomoon" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 0.78;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-1:before {
+  content: "\e900";
+}
+.icon-2:before {
+  content: "\e901";
+}
+.icon-3:before {
+  content: "\e902";
+}
+.icon-4:before {
+  content: "\e903";
+}
+.icon-5:before {
+  content: "\e904";
+}
+.icon-6:before {
+  content: "\e905";
+}
+.icon-7:before {
+  content: "\e906";
+}
+.icon-8:before {
+  content: "\e907";
+}
+.icon-9:before {
+  content: "\e908";
+}
+.icon-10:before {
+  content: "\e909";
+}
+.icon-11:before {
+  content: "\e90a";
+}
+.icon-12:before {
+  content: "\e90b";
+}
+.icon-13:before {
+  content: "\e90c";
+}
+.icon-14:before {
+  content: "\e90d";
+}
+.icon-15:before {
+  content: "\e90e";
+}
+
+

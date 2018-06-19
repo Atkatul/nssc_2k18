@@ -1,0 +1,728 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cb0y1-akokf"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 2,
+        "id": 29,
+        "name": "cb0y1-akokf",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cb5qo-sz44f"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 3,
+        "id": 28,
+        "name": "cb5qo-sz44f",
+        "prevSize": 32,
+        "code": 59649
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cb9fi-rct28"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 4,
+        "id": 27,
+        "name": "cb9fi-rct28",
+        "prevSize": 32,
+        "code": 59650
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cb57b-px871"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 5,
+        "id": 26,
+        "name": "cb57b-px871",
+        "prevSize": 32,
+        "code": 59651
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 3
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbac5-b1bd9"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 14,
+        "id": 25,
+        "name": "cbac5-b1bd9",
+        "prevSize": 32,
+        "code": 59652
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 4
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbbtn-eqy4n"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 19,
+        "id": 24,
+        "name": "cbbtn-eqy4n",
+        "prevSize": 32,
+        "code": 59653
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 5
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbc1i-xgd46"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 20,
+        "id": 23,
+        "name": "cbc1i-xgd46",
+        "prevSize": 32,
+        "code": 59654
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 6
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbcjd-hvewv"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 23,
+        "id": 22,
+        "name": "cbcjd-hvewv",
+        "prevSize": 32,
+        "code": 59655
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 7
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbd94-nn30h"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 24,
+        "id": 21,
+        "name": "cbd94-nn30h",
+        "prevSize": 32,
+        "code": 59656
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 8
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbj5o-s4k0j"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 27,
+        "id": 20,
+        "name": "cbj5o-s4k0j",
+        "prevSize": 32,
+        "code": 59657
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 9
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbjya-xffyt"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 28,
+        "id": 19,
+        "name": "cbjya-xffyt",
+        "prevSize": 32,
+        "code": 59658
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 10
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbkgt-ee5f7"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 31,
+        "id": 18,
+        "name": "cbkgt-ee5f7",
+        "prevSize": 32,
+        "code": 59659
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 11
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbkho-ykk26"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 6,
+        "id": 17,
+        "name": "cbkho-ykk26",
+        "prevSize": 32,
+        "code": 32
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 12
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbl2i-xhcp2"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 7,
+        "id": 16,
+        "name": "cbl2i-xhcp2",
+        "prevSize": 32,
+        "code": 59661
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 13
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbld6-fa5qk"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 10,
+        "id": 15,
+        "name": "cbld6-fa5qk",
+        "prevSize": 32,
+        "code": 49
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 14
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbld6-fa5qk(1)"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 13,
+        "id": 14,
+        "name": "cbld6-fa5qk(1)",
+        "prevSize": 32,
+        "code": 59663
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 15
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cblei-xqkh7"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 15,
+        "id": 13,
+        "name": "cblei-xqkh7",
+        "prevSize": 32,
+        "code": 59664
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 16
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbnye-1c72t"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 18,
+        "id": 12,
+        "name": "cbnye-1c72t",
+        "prevSize": 32,
+        "code": 59665
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 17
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cboo3-r8z3r"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 21,
+        "id": 11,
+        "name": "cboo3-r8z3r",
+        "prevSize": 32,
+        "code": 59666
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 18
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cboww-gmx3t"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 22,
+        "id": 10,
+        "name": "cboww-gmx3t",
+        "prevSize": 32,
+        "code": 59667
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 19
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbpaa-onm02"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 25,
+        "id": 9,
+        "name": "cbpaa-onm02",
+        "prevSize": 32,
+        "code": 59668
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 20
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbsw5-ab02t"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 26,
+        "id": 8,
+        "name": "cbsw5-ab02t",
+        "prevSize": 32,
+        "code": 59669
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 21
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbwmg-fcr53"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 29,
+        "id": 7,
+        "name": "cbwmg-fcr53",
+        "prevSize": 32,
+        "code": 59670
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 22
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbws4-ycaey"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 30,
+        "id": 6,
+        "name": "cbws4-ycaey",
+        "prevSize": 32,
+        "code": 59671
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 23
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbxdn-erz0f"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 8,
+        "id": 5,
+        "name": "cbxdn-erz0f",
+        "prevSize": 32,
+        "code": 59672
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 24
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cby0d-7vt2a"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 9,
+        "id": 4,
+        "name": "cby0d-7vt2a",
+        "prevSize": 32,
+        "code": 59673
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 25
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cby1w-1vy7g"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 11,
+        "id": 3,
+        "name": "cby1w-1vy7g",
+        "prevSize": 32,
+        "code": 59674
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 26
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbygk-bb7nu"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 12,
+        "id": 2,
+        "name": "cbygk-bb7nu",
+        "prevSize": 32,
+        "code": 59675
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 27
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbz0p-qya3m"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 16,
+        "id": 1,
+        "name": "cbz0p-qya3m",
+        "prevSize": 32,
+        "code": 59676
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 28
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cbz6b-r530p"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 17,
+        "id": 0,
+        "name": "cbz6b-r530p",
+        "prevSize": 32,
+        "code": 59677
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 29
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
