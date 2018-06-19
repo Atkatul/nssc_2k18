@@ -1,0 +1,111 @@
+.content{
+	text-align: center;
+}
+.box:hover{
+    color: #fff;
+	transform:scale(1.15);
+    transition: 1s;
+    transition: scale(1.5);
+    box-shadow : insert 0 0 0 22px #3A5795;
+}
+.box{
+    height:50;
+    width: 100;
+    text-align:right;
+    border-radius: 50;
+    font-family: entypo;
+    color: #212121;
+    background: #fff;	
+    line-height: 2;
+	font-size:25px;    
+    display: block;
+    cursor: pointer;
+    margin: 30px;
+    margin-top: 100;
+    transition: 1s;
+    background-image: 'bg.jpg';
+}
+
+.void_block{
+	height: 100px;
+	width: 100%;
+}
+.hameid-loader-overlay {
+width: 100%;
+height: 100%;
+background: url('giphy.gif') center no-repeat #FFF;
+z-index: 99999;
+position: fixed;
+}
+/*
+#vericaltext3{
+    border-width: 2px 2px 2px 0px; 
+    border-style: solid;
+    border-color: black;
+    padding: 1px;
+     border-radius:  10px;
+  this is just for good looks */
+   /* border: 2px solid black;
+    border-radius: 0px 10x 10px 0px;
+}
+#vericaltext2{
+    border-width: 2px 2px 0px 0px ;
+    border-style: solid;
+    border-color: black;
+    border-radius:  10px;
+    border: 2px solid black;
+    padding: 1px;
+    border-radius: 0px 10x 10px 0px;
+}
+#vericaltext1{
+    border-width: 2px 2px 2px 0px; 
+    border-style: solid;
+    border-color: black;
+     border-radius:  10px;
+    padding: 1px;
+    border-radius: 0px 10x 10px 0px;
+    border: 2px solid black;
+}*/
+.align-left{
+    width:1px;
+    line-height: 85%;
+    word-wrap: break-word;
+    font-weight: bold;
+    /*width:10px;*/
+   font-family: monospace;
+}
+.side{
+    width: 100%;
+}/*
+#vericaltext3{
+    border-width: 2px; 
+    border-style: solid;
+    border-color: black;
+    padding: 1px;
+     border-radius:  10px;
+   border: 2px solid black;
+    border-radius: 0px 10x 10px 0px;
+    transform: translateX(-100px);
+}
+#vericaltext2{
+    border-width: 2px 2px 0px 0px ;
+    border-style: solid;
+    border-color: black;
+    border-radius:  10px;
+    border: 2px solid black;
+    padding: 1px;
+    border-radius: 0px 10x 10px 0px;
+    transform: translateX(-100px);
+}
+#vericaltext1{
+    border-width: 2px 2px 2px 0px; 
+    border-style: solid;
+    border-color: black;
+     border-radius:  10px;
+    padding: 1px;
+    border-radius: 0px 10x 10px 0px;
+    border: 2px solid black;
+    transform: translateX(-100px);
+}*/
+
+}
