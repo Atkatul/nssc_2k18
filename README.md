@@ -1,1 +1,1 @@
-# nssc_2k18
+# National Student's Space Challenge (NSSC) 2018 [Official Website]
